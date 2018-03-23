@@ -1885,10 +1885,25 @@
     </settings>
   </configuration>
   <file>
+    <name>$PROJ_DIR$\Event.h</name>
+  </file>
+  <file>
+    <name>$PROJ_DIR$\knx_ic.c</name>
+  </file>
+  <file>
+    <name>$PROJ_DIR$\knx_ic.h</name>
+  </file>
+  <file>
     <name>$PROJ_DIR$\layer2.c</name>
   </file>
   <file>
     <name>$PROJ_DIR$\main.c</name>
+  </file>
+  <file>
+    <name>$PROJ_DIR$\StateEng.h</name>
+  </file>
+  <file>
+    <name>$PROJ_DIR$\tpuart.c</name>
   </file>
 </project>
 
